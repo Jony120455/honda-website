@@ -1,0 +1,10 @@
+body h1{
+    font-family: 'Poppins', sans-serif;
+}
+.btn{
+    background-color: #E66E50;
+    padding: 6px 50px;
+}
+.row{
+    align-items: flex-start;
+}
